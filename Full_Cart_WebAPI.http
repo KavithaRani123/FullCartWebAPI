@@ -1,0 +1,6 @@
+@Full_Cart_WebAPI_HostAddress = http://localhost:5086
+
+GET {{Full_Cart_WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
